@@ -5,6 +5,6 @@ def numeros_infinitos():
         n += 1
 
 for numero in numeros_infinitos():
-    if numero > 15:
+    if numero > 5:
         break
     print(numero)
